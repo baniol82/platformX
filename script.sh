@@ -1,2 +1,2 @@
 #!/bin/sh
-echo Hello ${TARGET:=World}!
+echo Dzien dobry: ${TARGET:=World}!
