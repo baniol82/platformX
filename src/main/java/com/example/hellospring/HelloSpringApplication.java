@@ -28,7 +28,7 @@ public class HelloSpringApplication implements CommandLineRunner {
 		final String logoBW = 
 		"                                                                                \n"+
 		"                                                                                \n"+
-		"                              rrrrrrrrrrrrrrrrrrrr                              \n"+
+		"                              wwwwwwwwwwwwwwwwwwww                              \n"+
 		"                         rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr                        \n"+
 		"                      rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr                     \n"+
 		"                    rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrbb                   \n"+
