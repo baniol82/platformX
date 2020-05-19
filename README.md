@@ -1,3 +1,5 @@
-# node-example-npm
-Code examples used in Building Node.js applications using Cloud Build
-https://cloud.google.com/cloud-build/docs/building/build-nodejs
+# run-example-builddeploy
+Code example used in the official Cloud Build documentation
+https://cloud.google.com/cloud-build/docs/deploying-builds/deploy-cloud-run.
+
+For instructions on running this code see  [Deploying on Cloud Run](https://cloud.google.com/cloud-build/docs/deploying-builds/deploy-cloud-run).
